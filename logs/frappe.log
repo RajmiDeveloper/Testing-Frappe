@@ -1,0 +1,30 @@
+2024-11-28 09:50:01,811 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:15:14.741262","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"no lo se","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T12:49:02.474Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-28 09:50:17,714 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:15:14.741262","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"como que no tiene valor","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T12:49:02.474Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-28 09:51:11,057 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:15:14.741262","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"El texto que yo","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T12:51:01.532Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-28 09:51:58,233 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:15:14.741262","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"El texto que yo","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T12:51:54.262Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-28 09:52:56,650 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:15:14.741262","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"El texto que yo","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T12:52:50.738Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-28 09:55:59,652 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:25:35.465414","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"El texto que yo ","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T12:55:55.817Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-28 10:05:10,343 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:28:14.952295","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"El texto que estoy poniendo en este txt pero no se que mas decir","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T13:04:57.392Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-28 10:05:41,899 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:28:14.952295","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"El texto sbfidsbfidjksd","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T13:05:38.396Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-28 10:08:27,599 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:28:14.952295","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"El texto  asdadasdasadads","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T13:08:04.244Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-28 10:09:07,483 ERROR frappe New Exception collected in error log
+Site: dev1.local
+Form Dict: {'doc': '{"name":"nc89pdfe1f","owner":"Administrator","creation":"2024-11-28 17:13:12.181565","modified":"2024-11-28 17:28:14.952295","modified_by":"Administrator","docstatus":0,"idx":0,"data_appx":"El texto  aaaassssdddd","imagelabel":"/private/files/super-saiyan-dios-super-saiyan-evolucion.jpg","doctype":"ImageDoc","__last_sync_on":"2024-11-28T13:08:54.046Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}

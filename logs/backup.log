@@ -1,0 +1,6 @@
+set -o pipefail; /usr/bin/mariadb-dump --user=_028e6e6d1249ebc2 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _028e6e6d1249ebc2 | /usr/bin/gzip >> ./dev1.local/private/backups/20241128_193002-dev1_local-database.sql.gz
+
+Backup Summary for dev1.local at 2024-11-28 19:30:02.605816
+Config  : /home/matias/Personal/Frappe/testing/sites/dev1.local/private/backups/20241128_193002-dev1_local-site_config_backup.json 127.0B
+Database: /home/matias/Personal/Frappe/testing/sites/dev1.local/private/backups/20241128_193002-dev1_local-database.sql.gz 296.6KiB
+Backup for Site dev1.local has been successfully completed

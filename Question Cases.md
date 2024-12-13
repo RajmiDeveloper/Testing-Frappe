@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 	Caso 1:
-Asociado a doctype, doctype practicas, contexto admision
-checkbox
+Asociado a doctype, doctype practicas, contexto admision.
+checkbox.
 -- funciona
 
 -----------------------------------------------------------------------------
